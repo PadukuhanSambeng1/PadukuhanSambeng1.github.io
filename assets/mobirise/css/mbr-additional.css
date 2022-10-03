@@ -2078,6 +2078,284 @@ a {
   -khtml-user-select: none;
   -webkit-tap-highlight-color: transparent;
 }
+.cid-tjd7iWsZMx {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-tjd7iWsZMx img,
+.cid-tjd7iWsZMx .item-img {
+  width: 100%;
+}
+.cid-tjd7iWsZMx .item:focus,
+.cid-tjd7iWsZMx span:focus {
+  outline: none;
+}
+.cid-tjd7iWsZMx .item-wrapper {
+  position: relative;
+}
+.cid-tjd7iWsZMx .slide-content {
+  position: relative;
+  border-radius: 4px;
+  background: #fafafa;
+  height: 100%;
+  display: flex;
+  overflow: hidden;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-tjd7iWsZMx .slide-content .item-content {
+    padding: 2rem 2rem 0;
+  }
+  .cid-tjd7iWsZMx .slide-content .item-footer {
+    padding: 0 2rem 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tjd7iWsZMx .slide-content .item-content {
+    padding: 1rem 1rem 0;
+  }
+  .cid-tjd7iWsZMx .slide-content .item-footer {
+    padding: 0 1rem 1rem;
+  }
+}
+.cid-tjd7iWsZMx .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-tjd7iWsZMx .mbr-section-title {
+  color: #232323;
+}
+.cid-tjd7iWsZMx .mbr-text,
+.cid-tjd7iWsZMx .mbr-section-btn {
+  text-align: left;
+}
+.cid-tjd7iWsZMx .item-title {
+  text-align: left;
+}
+.cid-tjd7iWsZMx .item-subtitle {
+  text-align: left;
+}
+.cid-tjd7iWsZMx .embla__slide {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  min-width: 410px;
+  max-width: 410px;
+}
+@media (max-width: 768px) {
+  .cid-tjd7iWsZMx .embla__slide {
+    min-width: 70%;
+    max-width: initial;
+    margin-left: 1rem !important;
+    margin-right: 1rem !important;
+  }
+}
+.cid-tjd7iWsZMx .embla__button--next,
+.cid-tjd7iWsZMx .embla__button--prev {
+  display: flex;
+}
+.cid-tjd7iWsZMx .embla__button {
+  top: 50%;
+  width: 60px;
+  height: 60px;
+  margin-top: -1.5rem;
+  font-size: 22px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  transition: all 0.3s;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media (max-width: 768px) {
+  .cid-tjd7iWsZMx .embla__button {
+    display: none;
+  }
+}
+.cid-tjd7iWsZMx .embla__button:disabled {
+  cursor: default;
+  display: none;
+}
+.cid-tjd7iWsZMx .embla__button:hover {
+  background: #000;
+  color: rgba(255, 255, 255, 0.5);
+}
+.cid-tjd7iWsZMx .embla__button.embla__button--prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-tjd7iWsZMx .embla__button.embla__button--next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+@media (max-width: 767px) {
+  .cid-tjd7iWsZMx .embla__button {
+    top: auto;
+  }
+}
+.cid-tjd7iWsZMx .embla {
+  position: relative;
+  width: 100%;
+}
+.cid-tjd7iWsZMx .embla__viewport {
+  overflow: hidden;
+  width: 100%;
+}
+.cid-tjd7iWsZMx .embla__viewport.is-draggable {
+  cursor: grab;
+}
+.cid-tjd7iWsZMx .embla__viewport.is-dragging {
+  cursor: grabbing;
+}
+.cid-tjd7iWsZMx .embla__container {
+  display: flex;
+  user-select: none;
+  -webkit-touch-callout: none;
+  -khtml-user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.cid-tjd9J6P48d {
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+}
+.cid-tjd9J6P48d img,
+.cid-tjd9J6P48d .item-img {
+  width: 100%;
+}
+.cid-tjd9J6P48d .item:focus,
+.cid-tjd9J6P48d span:focus {
+  outline: none;
+}
+.cid-tjd9J6P48d .item-wrapper {
+  position: relative;
+}
+.cid-tjd9J6P48d .slide-content {
+  position: relative;
+  border-radius: 4px;
+  background: #fafafa;
+  height: 100%;
+  display: flex;
+  overflow: hidden;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-tjd9J6P48d .slide-content .item-content {
+    padding: 2rem 2rem 0;
+  }
+  .cid-tjd9J6P48d .slide-content .item-footer {
+    padding: 0 2rem 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tjd9J6P48d .slide-content .item-content {
+    padding: 1rem 1rem 0;
+  }
+  .cid-tjd9J6P48d .slide-content .item-footer {
+    padding: 0 1rem 1rem;
+  }
+}
+.cid-tjd9J6P48d .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-tjd9J6P48d .mbr-section-title {
+  color: #232323;
+}
+.cid-tjd9J6P48d .mbr-text,
+.cid-tjd9J6P48d .mbr-section-btn {
+  text-align: left;
+}
+.cid-tjd9J6P48d .item-title {
+  text-align: left;
+}
+.cid-tjd9J6P48d .item-subtitle {
+  text-align: left;
+}
+.cid-tjd9J6P48d .embla__slide {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  min-width: 410px;
+  max-width: 410px;
+}
+@media (max-width: 768px) {
+  .cid-tjd9J6P48d .embla__slide {
+    min-width: 70%;
+    max-width: initial;
+    margin-left: 1rem !important;
+    margin-right: 1rem !important;
+  }
+}
+.cid-tjd9J6P48d .embla__button--next,
+.cid-tjd9J6P48d .embla__button--prev {
+  display: flex;
+}
+.cid-tjd9J6P48d .embla__button {
+  top: 50%;
+  width: 60px;
+  height: 60px;
+  margin-top: -1.5rem;
+  font-size: 22px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  transition: all 0.3s;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media (max-width: 768px) {
+  .cid-tjd9J6P48d .embla__button {
+    display: none;
+  }
+}
+.cid-tjd9J6P48d .embla__button:disabled {
+  cursor: default;
+  display: none;
+}
+.cid-tjd9J6P48d .embla__button:hover {
+  background: #000;
+  color: rgba(255, 255, 255, 0.5);
+}
+.cid-tjd9J6P48d .embla__button.embla__button--prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-tjd9J6P48d .embla__button.embla__button--next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+@media (max-width: 767px) {
+  .cid-tjd9J6P48d .embla__button {
+    top: auto;
+  }
+}
+.cid-tjd9J6P48d .embla {
+  position: relative;
+  width: 100%;
+}
+.cid-tjd9J6P48d .embla__viewport {
+  overflow: hidden;
+  width: 100%;
+}
+.cid-tjd9J6P48d .embla__viewport.is-draggable {
+  cursor: grab;
+}
+.cid-tjd9J6P48d .embla__viewport.is-dragging {
+  cursor: grabbing;
+}
+.cid-tjd9J6P48d .embla__container {
+  display: flex;
+  user-select: none;
+  -webkit-touch-callout: none;
+  -khtml-user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
 .cid-tiPINbEndk {
   padding-top: 1rem;
   padding-bottom: 2rem;
